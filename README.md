@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **lucas121090/lucas121090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">Lucas Carvalho Silva</h1>
@@ -90,4 +89,4 @@ To join a forward-thinking organization where I can contribute to reliable infra
 <p align="center">
   <i>"Building resilient infrastructure for scalable futures."</i>
 </p>
--->
+
