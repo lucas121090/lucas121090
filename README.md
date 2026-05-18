@@ -81,8 +81,8 @@ To join a forward-thinking organization where I can contribute to reliable infra
 
 ## 📫 Contact
 
-📧 YourEmail@email.com  
-💼 LinkedIn: add-your-link-here  
+📧 tec1lucas@email.com  
+💼 LinkedIn: https://www.linkedin.com/in/lucas-carvalho-silva-18279090/  
 
 ---
 
